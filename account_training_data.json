@@ -1,0 +1,1182 @@
+[
+  {
+    "text": "Account holder\nAGEH STEWART EMMANUEL\nBank name\nUNION BANK OF NIGERIA PLC\nAccount number\n0131952914",
+    "entities": [
+      [
+        0,
+        14,
+        "ACCOUNT_NAME"
+      ],
+      [
+        47,
+        57,
+        "BANK_NAME"
+      ],
+      [
+        88,
+        98,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "access bank\n1234567890\nolayemi",
+    "entities": [
+      [
+        0,
+        6,
+        "BANK_NAME"
+      ],
+      [
+        12,
+        22,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Account holder\nAGEH STEWART EMMANUEL\nBank name\nFIRST BANK OF NIGERIA LTD\nAccount number\n0131952914",
+    "entities": [
+      [
+        0,
+        14,
+        "ACCOUNT_NAME"
+      ],
+      [
+        47,
+        57,
+        "BANK_NAME"
+      ],
+      [
+        88,
+        98,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "8105287737\nOPay \nChoose Harrison \nUrgent pay pls",
+    "entities": [
+      [
+        17,
+        32,
+        "ACCOUNT_NAME"
+      ],
+      [
+        11,
+        15,
+        "BANK_NAME"
+      ],
+      [
+        0,
+        10,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Account holder\nEmmanuel Edet isaac\nBank name\nKUDA Microfinance Bank\nAccount number\n2032190849",
+    "entities": [
+      [
+        0,
+        14,
+        "ACCOUNT_NAME"
+      ],
+      [
+        45,
+        49,
+        "BANK_NAME"
+      ],
+      [
+        83,
+        93,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "6097077772\nChipper cash \nJohn Joseph",
+    "entities": [
+      [
+        25,
+        36,
+        "ACCOUNT_NAME"
+      ],
+      [
+        11,
+        23,
+        "BANK_NAME"
+      ],
+      [
+        0,
+        10,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Sheu Abdullateef\nOpay Bank (Paycom)\n9066786803",
+    "entities": [
+      [
+        0,
+        16,
+        "ACCOUNT_NAME"
+      ],
+      [
+        17,
+        21,
+        "BANK_NAME"
+      ],
+      [
+        36,
+        46,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "James Adegboye isreal \n8142939410\nPalmpay",
+    "entities": [
+      [
+        0,
+        21,
+        "ACCOUNT_NAME"
+      ],
+      [
+        34,
+        41,
+        "BANK_NAME"
+      ],
+      [
+        23,
+        33,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Account holder\nFavor chukwuemeka Ibe\nBank name\nOpay Bank (Paycom)\nAccount number\n9151640987",
+    "entities": [
+      [
+        0,
+        14,
+        "ACCOUNT_NAME"
+      ],
+      [
+        47,
+        51,
+        "BANK_NAME"
+      ],
+      [
+        81,
+        91,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Shuaib Adrian Abraham\nOpay Bank (Paycom)\n8140760850",
+    "entities": [
+      [
+        0,
+        21,
+        "ACCOUNT_NAME"
+      ],
+      [
+        22,
+        26,
+        "BANK_NAME"
+      ],
+      [
+        41,
+        51,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Gbolahan Ayomide\nUNITED BANK FOR AFRICA PLC\n2209609028",
+    "entities": [
+      [
+        0,
+        16,
+        "ACCOUNT_NAME"
+      ],
+      [
+        44,
+        54,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Gbolahan Ayomide\nOpay Bank (Paycom)\n9123556584",
+    "entities": [
+      [
+        0,
+        16,
+        "ACCOUNT_NAME"
+      ],
+      [
+        17,
+        21,
+        "BANK_NAME"
+      ],
+      [
+        36,
+        46,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "9027907662 OPay Ifada Tennison",
+    "entities": [
+      [
+        16,
+        30,
+        "ACCOUNT_NAME"
+      ],
+      [
+        11,
+        15,
+        "BANK_NAME"
+      ],
+      [
+        0,
+        10,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Prince Ukatu\nKUDA Microfinance Bank\n2010138577",
+    "entities": [
+      [
+        0,
+        12,
+        "ACCOUNT_NAME"
+      ],
+      [
+        13,
+        17,
+        "BANK_NAME"
+      ],
+      [
+        36,
+        46,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "peculiar Enebeli\nKUDA Microfinance Bank\n2013033594",
+    "entities": [
+      [
+        0,
+        16,
+        "ACCOUNT_NAME"
+      ],
+      [
+        17,
+        21,
+        "BANK_NAME"
+      ],
+      [
+        40,
+        50,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "9040091005\nOpay\nOselusi Damilola",
+    "entities": [
+      [
+        16,
+        32,
+        "ACCOUNT_NAME"
+      ],
+      [
+        11,
+        15,
+        "BANK_NAME"
+      ],
+      [
+        0,
+        10,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "ORODE PROMISE\nOpay Bank (Paycom)\n7051803658",
+    "entities": [
+      [
+        0,
+        13,
+        "ACCOUNT_NAME"
+      ],
+      [
+        14,
+        18,
+        "BANK_NAME"
+      ],
+      [
+        33,
+        43,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Efajueme Godfrey Goodness\nKUDA Microfinance Bank\n2058696220",
+    "entities": [
+      [
+        0,
+        25,
+        "ACCOUNT_NAME"
+      ],
+      [
+        26,
+        30,
+        "BANK_NAME"
+      ],
+      [
+        49,
+        59,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Tobore ogoh oke\nZENITH BANK PLC\n2546824267",
+    "entities": [
+      [
+        0,
+        15,
+        "ACCOUNT_NAME"
+      ],
+      [
+        16,
+        22,
+        "BANK_NAME"
+      ],
+      [
+        32,
+        42,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "9115097097\nOghenevwede governor \nMoniepoint",
+    "entities": [
+      [
+        11,
+        31,
+        "ACCOUNT_NAME"
+      ],
+      [
+        33,
+        43,
+        "BANK_NAME"
+      ],
+      [
+        0,
+        10,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Adekoya Akeem\nKUDA Microfinance Bank\n2047862993",
+    "entities": [
+      [
+        0,
+        13,
+        "ACCOUNT_NAME"
+      ],
+      [
+        14,
+        18,
+        "BANK_NAME"
+      ],
+      [
+        37,
+        47,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "2069190571\nKuda \nIsaac benjamin",
+    "entities": [
+      [
+        17,
+        31,
+        "ACCOUNT_NAME"
+      ],
+      [
+        11,
+        15,
+        "BANK_NAME"
+      ],
+      [
+        0,
+        10,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Imafidon Kingsley osas\nFIRST BANK OF NIGERIA LTD\n3121107595",
+    "entities": [
+      [
+        0,
+        22,
+        "ACCOUNT_NAME"
+      ],
+      [
+        23,
+        33,
+        "BANK_NAME"
+      ],
+      [
+        49,
+        59,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Dada Daramola\nUNITED BANK FOR AFRICA PLC\n2101179250",
+    "entities": [
+      [
+        0,
+        13,
+        "ACCOUNT_NAME"
+      ],
+      [
+        41,
+        51,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "OPay joy Esther Erhiama 8101570292",
+    "entities": [
+      [
+        5,
+        23,
+        "ACCOUNT_NAME"
+      ],
+      [
+        0,
+        4,
+        "BANK_NAME"
+      ],
+      [
+        24,
+        34,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Olumide OSUNSINA\nKUDA Microfinance Bank\n2010323588",
+    "entities": [
+      [
+        0,
+        16,
+        "ACCOUNT_NAME"
+      ],
+      [
+        17,
+        21,
+        "BANK_NAME"
+      ],
+      [
+        40,
+        50,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "9065469595 Jude nentawe gogin opay",
+    "entities": [
+      [
+        11,
+        29,
+        "ACCOUNT_NAME"
+      ],
+      [
+        30,
+        34,
+        "BANK_NAME"
+      ],
+      [
+        0,
+        10,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Emmanuel Edet isaac\nKUDA Microfinance Bank\n2032190849",
+    "entities": [
+      [
+        0,
+        19,
+        "ACCOUNT_NAME"
+      ],
+      [
+        20,
+        24,
+        "BANK_NAME"
+      ],
+      [
+        43,
+        53,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Sheu Abdullateef\nOpay Bank (Paycom)\n9066786803",
+    "entities": [
+      [
+        0,
+        16,
+        "ACCOUNT_NAME"
+      ],
+      [
+        17,
+        21,
+        "BANK_NAME"
+      ],
+      [
+        36,
+        46,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Olanrewaju olamilekan afeez\nUNITED BANK FOR AFRICA PLC\n2087648025",
+    "entities": [
+      [
+        0,
+        27,
+        "ACCOUNT_NAME"
+      ],
+      [
+        55,
+        65,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "7032084691\nPalmPay \nAdebayo taofeek abolanle",
+    "entities": [
+      [
+        20,
+        44,
+        "ACCOUNT_NAME"
+      ],
+      [
+        11,
+        18,
+        "BANK_NAME"
+      ],
+      [
+        0,
+        10,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Idowu Timothy oluwatobi\nOpay Bank (Paycom)\n8106247983",
+    "entities": [
+      [
+        0,
+        23,
+        "ACCOUNT_NAME"
+      ],
+      [
+        24,
+        28,
+        "BANK_NAME"
+      ],
+      [
+        43,
+        53,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "9031533930 Adeniyi kayode Remi Moniepoint",
+    "entities": [
+      [
+        11,
+        30,
+        "ACCOUNT_NAME"
+      ],
+      [
+        31,
+        41,
+        "BANK_NAME"
+      ],
+      [
+        0,
+        10,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Olaleru Oyeniyi Adegoke\nOpay Bank (Paycom)\n9072430320",
+    "entities": [
+      [
+        0,
+        23,
+        "ACCOUNT_NAME"
+      ],
+      [
+        24,
+        28,
+        "BANK_NAME"
+      ],
+      [
+        43,
+        53,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "8143131220\u2026 opay \u2026 Moshood Ayobami",
+    "entities": [
+      [
+        19,
+        34,
+        "ACCOUNT_NAME"
+      ],
+      [
+        12,
+        16,
+        "BANK_NAME"
+      ],
+      [
+        0,
+        10,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Opeyemi rilwan\nKUDA Microfinance Bank\n2042904577",
+    "entities": [
+      [
+        0,
+        14,
+        "ACCOUNT_NAME"
+      ],
+      [
+        15,
+        19,
+        "BANK_NAME"
+      ],
+      [
+        38,
+        48,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Awoleye Adeyemi Roseline\n2018486308\nKuda",
+    "entities": [
+      [
+        0,
+        24,
+        "ACCOUNT_NAME"
+      ],
+      [
+        36,
+        40,
+        "BANK_NAME"
+      ],
+      [
+        25,
+        35,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Dairo tunde\nKUDA Microfinance Bank\n2003061989",
+    "entities": [
+      [
+        0,
+        11,
+        "ACCOUNT_NAME"
+      ],
+      [
+        12,
+        16,
+        "BANK_NAME"
+      ],
+      [
+        35,
+        45,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "8100369884\nOPay \nOladiran Odunayo",
+    "entities": [
+      [
+        17,
+        33,
+        "ACCOUNT_NAME"
+      ],
+      [
+        11,
+        15,
+        "BANK_NAME"
+      ],
+      [
+        0,
+        10,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Aje Oluwashina\nVFD MicroFinance Bank\n1000351807",
+    "entities": [
+      [
+        0,
+        14,
+        "ACCOUNT_NAME"
+      ],
+      [
+        19,
+        31,
+        "BANK_NAME"
+      ],
+      [
+        37,
+        47,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "8075234353\nopay \nomasan Festus ",
+    "entities": [
+      [
+        17,
+        30,
+        "ACCOUNT_NAME"
+      ],
+      [
+        11,
+        15,
+        "BANK_NAME"
+      ],
+      [
+        0,
+        10,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "7035606753\nopay\nolajide Johnson ",
+    "entities": [
+      [
+        16,
+        31,
+        "ACCOUNT_NAME"
+      ],
+      [
+        11,
+        15,
+        "BANK_NAME"
+      ],
+      [
+        0,
+        10,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "OPay joy Esther Erhiama 8101570292",
+    "entities": [
+      [
+        5,
+        23,
+        "ACCOUNT_NAME"
+      ],
+      [
+        0,
+        4,
+        "BANK_NAME"
+      ],
+      [
+        24,
+        34,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "9135733150 OPay opeyemi Ismail arimiyau ",
+    "entities": [
+      [
+        16,
+        39,
+        "ACCOUNT_NAME"
+      ],
+      [
+        11,
+        15,
+        "BANK_NAME"
+      ],
+      [
+        0,
+        10,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Daniel samuel gbenga\nKUDA Microfinance Bank\n2023263361",
+    "entities": [
+      [
+        0,
+        20,
+        "ACCOUNT_NAME"
+      ],
+      [
+        21,
+        25,
+        "BANK_NAME"
+      ],
+      [
+        44,
+        54,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Hamzat teslim\nKUDA Microfinance Bank\n20030378329027986443 opay adeyemo malik Babatunde ",
+    "entities": [
+      [
+        0,
+        13,
+        "ACCOUNT_NAME"
+      ],
+      [
+        14,
+        18,
+        "BANK_NAME"
+      ]
+    ]
+  },
+  {
+    "text": "Adeshina Sulaimon Taofeek\nOpay Bank (Paycom)\n9135784844",
+    "entities": [
+      [
+        0,
+        25,
+        "ACCOUNT_NAME"
+      ],
+      [
+        26,
+        30,
+        "BANK_NAME"
+      ],
+      [
+        45,
+        55,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Agbajelola Olakunle muhammed\nOpay Bank (Paycom)\n6130082830",
+    "entities": [
+      [
+        0,
+        28,
+        "ACCOUNT_NAME"
+      ],
+      [
+        29,
+        33,
+        "BANK_NAME"
+      ],
+      [
+        48,
+        58,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Damilare Opaleye\nKUDA Microfinance Bank\n2001823796",
+    "entities": [
+      [
+        0,
+        16,
+        "ACCOUNT_NAME"
+      ],
+      [
+        17,
+        21,
+        "BANK_NAME"
+      ],
+      [
+        40,
+        50,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Faruq Olamilekan\nVFD MicroFinance Bank\n1003311903",
+    "entities": [
+      [
+        0,
+        16,
+        "ACCOUNT_NAME"
+      ],
+      [
+        21,
+        33,
+        "BANK_NAME"
+      ],
+      [
+        39,
+        49,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Samuel Uduma\nOpay Bank (Paycom)\n7066780665",
+    "entities": [
+      [
+        0,
+        12,
+        "ACCOUNT_NAME"
+      ],
+      [
+        13,
+        17,
+        "BANK_NAME"
+      ],
+      [
+        32,
+        42,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Fagbemi emmanuel \nPalmPay\n9066025532",
+    "entities": [
+      [
+        0,
+        16,
+        "ACCOUNT_NAME"
+      ],
+      [
+        18,
+        25,
+        "BANK_NAME"
+      ],
+      [
+        26,
+        36,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Osayamhen Emmanuel praise\nUNITED BANK FOR AFRICA PLC\n2175927379",
+    "entities": [
+      [
+        0,
+        25,
+        "ACCOUNT_NAME"
+      ],
+      [
+        53,
+        63,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Adekoya Akeem\nKUDA Microfinance Bank\n2047862993\n",
+    "entities": [
+      [
+        0,
+        13,
+        "ACCOUNT_NAME"
+      ],
+      [
+        14,
+        18,
+        "BANK_NAME"
+      ],
+      [
+        37,
+        47,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "8102318584\n\nMoniepoint\n\nsofiat",
+    "entities": [
+      [
+        12,
+        22,
+        "BANK_NAME"
+      ],
+      [
+        0,
+        10,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Akinsanya sodiq\nKUDA Microfinance Bank\n2002075994",
+    "entities": [
+      [
+        0,
+        15,
+        "ACCOUNT_NAME"
+      ],
+      [
+        16,
+        20,
+        "BANK_NAME"
+      ],
+      [
+        39,
+        49,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Idowu Timothy oluwatobi\nOpay Bank (Paycom)\n8106247983",
+    "entities": [
+      [
+        0,
+        23,
+        "ACCOUNT_NAME"
+      ],
+      [
+        24,
+        28,
+        "BANK_NAME"
+      ],
+      [
+        43,
+        53,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Emmanuel Duncan\nOpay Bank (Paycom)\n7044266703",
+    "entities": [
+      [
+        0,
+        15,
+        "ACCOUNT_NAME"
+      ],
+      [
+        16,
+        20,
+        "BANK_NAME"
+      ],
+      [
+        35,
+        45,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Akinsanya sodiq\nKUDA Microfinance Bank\n2002075994",
+    "entities": [
+      [
+        0,
+        15,
+        "ACCOUNT_NAME"
+      ],
+      [
+        16,
+        20,
+        "BANK_NAME"
+      ],
+      [
+        39,
+        49,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Osayamhen Emmanuel praise UNITED BANK FOR AFRICA PLC 2175927379",
+    "entities": [
+      [
+        0,
+        32,
+        "ACCOUNT_NAME"
+      ],
+      [
+        53,
+        63,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Adekoya Akeem\nfrom\nKUDA Microfinance Bank\n2047862993",
+    "entities": [
+      [
+        0,
+        13,
+        "ACCOUNT_NAME"
+      ],
+      [
+        19,
+        23,
+        "BANK_NAME"
+      ],
+      [
+        42,
+        52,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  }
+]
