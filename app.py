@@ -5,7 +5,7 @@ import spacy
 app = Flask(__name__)
 
 # Load the trained model
-nlp = spacy.load("extract_modek")
+nlp = spacy.load("extract_model")
 
 @app.route('/extract', methods=['POST'])
 def extract():
